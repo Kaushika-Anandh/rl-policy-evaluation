@@ -172,7 +172,7 @@ else:
 ### policy
 ![](3.PNG)
 
-### policy evluation:
+### policy evaluation:
 ![](7.PNG)
 
 ### state value function:
@@ -182,7 +182,7 @@ else:
 ### policy
 ![](4.PNG)
 
-### policy evluation:
+### policy evaluation:
 ![](8.PNG)
 
 ### state value function:
